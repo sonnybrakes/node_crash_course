@@ -1,5 +1,5 @@
 // Module Wrapper Function
-// (function (exports, require, module, __dirname, __filename) {
+// (function (exports, require, module, __filename, __dirname) {
 //
 // })
 
